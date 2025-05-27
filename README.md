@@ -33,3 +33,4 @@ Educational Platforms	Recommending courses or tutorials based on enrolled or com
 Online Libraries	Book suggestions based on borrowing or rating history
 
 *output*
+![Image](https://github.com/user-attachments/assets/609efa28-8bbc-452b-9ee9-9ee7ce51590b)
